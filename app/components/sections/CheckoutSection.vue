@@ -1,5 +1,6 @@
 <template>
   <section 
+    id="checkout-section"
     ref="sectionRef"
     class="py-20 bg-gradient-to-br from-primary-500 via-primary-400 to-secondary-500"
   >
