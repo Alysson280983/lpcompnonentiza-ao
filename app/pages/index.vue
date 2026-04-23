@@ -7,6 +7,10 @@
     <PossibilidadesSection />
     <ConteudoCursoSection />
     <DepoimentosSection />
+    <CheckoutSection />
+    <FaqSection />
+    <FooterSection />
+    <WhatsAppButton />
   </div>
 </template>
 
@@ -18,4 +22,8 @@ import ComponentizacaoExtremaSection from '~/components/sections/Componentizacao
 import PossibilidadesSection from '~/components/sections/PossibilidadesSection.vue'
 import ConteudoCursoSection from '~/components/sections/ConteudoCursoSection.vue'
 import DepoimentosSection from '~/components/sections/DepoimentosSection.vue'
+import CheckoutSection from '~/components/sections/CheckoutSection.vue'
+import FaqSection from '~/components/sections/FaqSection.vue'
+import FooterSection from '~/components/sections/FooterSection.vue'
+import WhatsAppButton from '~/components/ui/WhatsAppButton.vue'
 </script>
